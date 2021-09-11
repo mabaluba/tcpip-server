@@ -1,0 +1,2 @@
+# tcpip-server
+Qt, c++
